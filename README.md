@@ -9,3 +9,8 @@ Unit tests located in standart <em>'tests'</em> folder
 ## App Description
 App has only two pages: First page shows list of arts fetched from Rijksmuseum API.
 If you click one of them, app navigates to second page where it shows details of Art
+   
+
+Home Page              |  Art Details Page
+:-------------------------:|:-------------------------:
+![](https://user-images.githubusercontent.com/30071369/191645404-116048df-3612-4e2b-9ebf-ca1020475a37.png)  |  ![](https://user-images.githubusercontent.com/30071369/191645418-270a2327-02d7-440b-828f-de634c460070.png)
